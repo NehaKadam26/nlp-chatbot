@@ -10,7 +10,7 @@ This project demonstrates core Natural Language Processing concepts through a fu
 
 ---
 
-## 🖥️ Screenshot
+## 📸 Screenshot
 
 ![Chatbot UI](chatbot_ui.png)
 
