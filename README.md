@@ -10,6 +10,12 @@ This project demonstrates core Natural Language Processing concepts through a fu
 
 ---
 
+## 🖥️ Screenshot
+
+![Chatbot UI](chatbot_ui.png)
+
+---
+
 ## 🎯 Objectives
 
 - Implement basic NLP techniques (tokenization, stemming, synonym matching)
